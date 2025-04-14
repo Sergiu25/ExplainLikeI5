@@ -25,7 +25,7 @@ cd explain-like-im-5
 bash
 cd backend
 pip install -r requirements.txt
-# Add your Gemini API key to a .env file
+//Add your Gemini API key to a .env file
 flask run
 3. Frontend (React)
 bash
