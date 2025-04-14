@@ -47,7 +47,8 @@ React + Vite
 
 Gemini API (for that LLM magic)
 
-📌 Why I made this
+📌 Why I made this:
+
 Because sometimes the smartest way to explain something… is the simplest way. Whether you're a kid, a curious adult, or just want the TL;DR without the headache—this is for you.
 
 🌈 License
